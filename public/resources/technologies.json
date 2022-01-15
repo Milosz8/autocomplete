@@ -1,0 +1,44 @@
+{
+  "technologies": [
+    {
+      "name": "HTML",
+      "id": 0
+    },
+    {
+      "name": "CSS",
+      "id": 1
+    },
+    {
+      "name": "JavaScript",
+      "id": 2
+    },
+    {
+      "name": "React",
+      "id": 3
+    },
+    {
+      "name": "SCSS",
+      "id": 4
+    },
+    {
+      "name": "TypeScript",
+      "id": 5
+    },
+    {
+      "name": "LESS",
+      "id": 6
+    },
+    {
+      "name": "Vue",
+      "id": 7
+    },
+    {
+      "name": "SQL",
+      "id": 8
+    },
+    {
+      "name": "Angular",
+      "id": 9
+    }
+  ]
+}
